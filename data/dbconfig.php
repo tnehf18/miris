@@ -1,9 +1,9 @@
 <?php
 if (!defined('_GNUBOARD_')) exit;
-define('G5_MYSQL_HOST', 'db.miris.co.kr');
-define('G5_MYSQL_USER', 'miris');
-define('G5_MYSQL_PASSWORD', 'miris1234!!');
-define('G5_MYSQL_DB', 'dbmiris');
+define('G5_MYSQL_HOST', '');
+define('G5_MYSQL_USER', '');
+define('G5_MYSQL_PASSWORD', '');
+define('G5_MYSQL_DB', '');
 define('G5_MYSQL_SET_MODE', false);
 
 define('G5_TABLE_PREFIX', 'g5_');
